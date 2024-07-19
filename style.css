@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    pading: 0;
+  }
+  article {
+    padding: 5px;
+    margin: 3px auto;
+    border: 2px solid black;
+    width: 20rem;
+  }
+  section button {
+    margin: 2px;
+    height: 70px;
+    width: 70px;
+    font-size: 30px;
+    border-radius: 20px;
+  }
+  input {
+    width: 98%;
+    height: 4rem;
+    border-radius: 12px;
+    font-size: 25px;
+    
+    
+  }
+  h1 {
+    text-align: center;
+  }
+  section button:hover {
+    background-color: red;
+    height: 71px;
+    width: 71px;
+  }
+  
